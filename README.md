@@ -1,5 +1,5 @@
 # Englanderline-Product-Data-Scraper
-I have created a scraper that scrapes different product datas from a whole website.
+I have created a scraper that scrapes different product datas from a whole website and stores them into an excel sheet.
 A Python project named 'englander.py' is created to scrape datas and it uses Scrapy Python library. You can view the code and scraped data by the code above.
 
 ## What does this project do?
