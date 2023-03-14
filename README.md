@@ -1,9 +1,10 @@
 # Englanderline-Product-Data-Scraper
 I have created a scraper that scrapes different product datas from a whole website and stores them into an excel sheet.
-A Python project named 'englander.py' is created to scrape datas and it uses Scrapy Python library. You can view the code above and scraped data through this link https://docs.google.com/spreadsheets/d/1tmnlYycwjlDtSD5RS4WfujW5tU6NRsWh/edit?usp=sharing&ouid=113361500236449805704&rtpof=true&sd=true
+A Python project named 'englander.py' is created to scrape datas and it uses Scrapy Python library. You can view the code above and scraped data through this link: https://docs.google.com/spreadsheets/d/1tmnlYycwjlDtSD5RS4WfujW5tU6NRsWh/edit?usp=sharing&ouid=113361500236449805704&rtpof=true&sd=true
 
-you can also see example images of output below
+Additionaly, there is an alternative excel output above that scraped image urls instead of images.
 
+you can also see example output below
 <img width="1280" alt="Ekran Resmi 2023-03-13 15 38 16" src="https://user-images.githubusercontent.com/73471656/224704487-546dadf4-2f01-46cb-a6ac-c989255dabb3.png">
 
 
